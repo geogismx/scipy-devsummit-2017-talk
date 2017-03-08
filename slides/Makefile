@@ -24,4 +24,4 @@ clean:
 	rm index.html $(event)-$(deck)-presentation-handout.pdf $(event)-$(deck)-presentation-full.pdf
 
 upload:
-	cp -Rvp ../repo/mkl-perf . && cp mkl-perf/mkl-perf.html mkl-perf/index.html && rsync --partial --progress -r . 4326.us:esri/$(short) && open $(public_loc)
+	cp -Rvp ../../repo/mkl-perf . && cp mkl-perf/mkl-perf.html mkl-perf/index.html && rsync --partial --progress -r . 4326.us:esri/$(short) && open $(public_loc)
