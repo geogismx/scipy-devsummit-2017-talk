@@ -1,0 +1,10 @@
+Name    Kloc    committers      stars
+[matplotlib](http://matplotlib.org/)    118     426     3359
+[Nose](http://readthedocs.org/docs/nose/en/latest/)     7       79      912
+[NumPy](http://www.numpy.org/)  236     405     2683
+[Pandas](http://pandas.pydata.org)      183     407     5834
+[SciPy](http://scipy.org/scipylib/)     387     375     2150
+[SymPy](http://sympy.org/)      243     427     2672
+Total:
+  1174K lines of code
+  1784 contributors.
