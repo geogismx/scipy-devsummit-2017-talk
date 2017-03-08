@@ -4,11 +4,11 @@ Scientific Programming with the SciPy Stack
 ### Shaun Walbridge & Kevin Butler
 ### Esri DevSummit 2017
 
-**[View the Slides](https://4326.us/esri/scipy/)**
+**[View the Slides](https://4326.us/esri/scipy-2017/)**
 
-**[Download High Quality Version (PDF, 5MB)](https://4326.us/esri/scipy/devsummit-2017-scipy-arcgis-presentation-full.pdf)**
+**[Download High Quality Version (PDF, 5MB)](https://4326.us/esri/scipy-2017/devsummit-2017-scipy-arcgis-presentation-full.pdf)**
 
-**[Watch Last Years' Presentation](http://video.esri.com/watch/4419/python-working-with-scientific-data)**
+**[Watch 2015 Presentation](http://video.esri.com/watch/4419/python-working-with-scientific-data)**
 
 Description
 -----------
